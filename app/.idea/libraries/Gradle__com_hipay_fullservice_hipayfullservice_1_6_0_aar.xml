@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.hipay.fullservice:hipayfullservice:1.6.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/29e314a599548eb73355edc55e696086/hipayfullservice-1.6.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/29e314a599548eb73355edc55e696086/hipayfullservice-1.6.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hipay.fullservice/hipayfullservice/1.6.0/1440a53f76affc18acf47b8cd667733023e9f89a/hipayfullservice-1.6.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hipay.fullservice/hipayfullservice/1.6.0/4340658b3fbfaa4ada0966939301aaad43930ed2/hipayfullservice-1.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

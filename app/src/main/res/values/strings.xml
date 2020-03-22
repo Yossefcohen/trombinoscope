@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hipay_Demo</string>
+    <string name="server_url">home/ycohen/public_html/passphrase.php</string>
+</resources>
